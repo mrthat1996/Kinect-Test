@@ -1,0 +1,12 @@
+C:\Users\Alice\source\repos\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+C:\Users\Alice\source\repos\KinectTest\KinectTest\bin\Debug\KinectTest.exe
+C:\Users\Alice\source\repos\KinectTest\KinectTest\bin\Debug\KinectTest.pdb
+C:\Users\Alice\source\repos\KinectTest\KinectTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Alice\source\repos\KinectTest\KinectTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.csprojAssemblyReference.cache
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.frmTest.resources
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.Properties.Resources.resources
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.GenerateResource.cache
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.CopyComplete
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+C:\Users\Alice\source\repos\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
